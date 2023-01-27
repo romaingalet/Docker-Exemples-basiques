@@ -1,5 +1,4 @@
-# Exemples_Docker
-Quelques exemples simples.
+# Quelques exemples simples.
 
  * projet 1 : Run programme Python basique (print)
               FROM python:3.10.0a2-slim-buster
