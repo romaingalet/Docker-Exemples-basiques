@@ -1,4 +1,4 @@
-# Quelques exemples simples.
+# Quelques exemples de génération d'images Docker
 
   - [x] projet 1 : Run programme Python basique (print)
               FROM python:3.10.0a2-slim-buster
