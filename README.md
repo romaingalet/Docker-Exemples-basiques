@@ -7,4 +7,4 @@
   - [ ] projet 4 : Construction d'un miniconda à partir d'un slim-buster Python (non achevé)
   - [x] projet 5 : Construction d'une image avec quelques lib. python orientées Gis et Data (scipy, numpy, osmnx, ...)
   - [x] projet 7 : Exécution d'un container basé sur ign/geopython lançant un programme Python simple (affichage d'un hello). Image récupérée par un pull sur un docker registry.
-  - [x] projet 8 : Identique à précédent, mais le script Python teste les import en vue de préparer le lancement de bdf-mesh.
+  - [x] projet 8 : Identique à précédent, mais le script Python teste les `import` en vue de préparer le lancement de bdf-mesh.
