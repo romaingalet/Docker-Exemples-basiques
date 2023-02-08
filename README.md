@@ -10,3 +10,4 @@
   - [x] projet 8 : Identique à précédent, mais le script Python teste les `import` en vue de préparer le lancement de bdf-mesh.
   - [x] projet 9 : Un fix pour l'import de fiona : Ajout de la ligne `ENV PROJ_LIB = ...` dans le Dockerfile.
   - [x] projet 11 : Un docker run (à affiner) pour l'appli bdf-mesh
+  - [x] projet 14 : Dockerfile générant l'envioronnement conda à partir d'un Yaml. Activation de l'env pour exécution du script. 
